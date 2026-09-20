@@ -18,7 +18,7 @@ A three-repo stack answering whether an asteroid mining mission pays for itself:
 
 | | |
 |---|---|
-| **[star-spectral-classifier](https://github.com/loggger101/star-spectral-classifier)** | Multi-task CNN over Pan-STARRS RGB cutouts predicting Morgan–Keenan spectral letter and subclass digit, from photometry alone — no spectra. [Project page](https://www.loganmedwardsastrophy.com/star-catalog.html) |
+| **[star-spectral-classifier](https://github.com/loggger101/star-spectral-classifier)** | Multi-task CNN over Pan-STARRS RGB cutouts predicting Morgan–Keenan spectral letter and subclass digit, from photometry alone. [Project page](https://www.loganmedwardsastrophy.com/star-catalog.html) |
 | **[drone-target-id](https://github.com/loggger101/drone-target-id)** | YOLO segmentation front-end feeding a multi-output CNN for aerial target identification, fine class and coarse valid/invalid. [Project page](https://www.loganmedwardsastrophy.com/drone-target.html) |
 
 ### Elsewhere
